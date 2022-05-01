@@ -4,7 +4,7 @@
              x:Class="ProyectoRecepcionProductos.Views.Login">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Formsgg !"
+            <Label Text="Welcome to Xamarin.Formsggf !"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
